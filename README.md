@@ -8,6 +8,6 @@ run ./setup.sh to download docker images and create & run containers
 
 once setup is complete, access:
 elasticsearch on http://localhost:9200
-kibana on http://localhost:5600
+kibana on http://localhost:5601
 
 to populate dns data, open any browser and start browsing sites or use curl google.com, etc.
