@@ -10,4 +10,4 @@ once setup is complete access:
 elasticsearch on http://localhost:9200
 kibana on http://localhost:5600
 
-to populate dns data, open any browser and start browsing sites or use curl <site.name>
+to populate dns data, open any browser and start browsing sites or use curl google.com, etc.
