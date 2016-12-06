@@ -6,7 +6,7 @@ pre-requisite:  1) latest docker platform installed and docker deamon running
 
 run ./setup.sh to download docker images and create & run containers
 
-once setup is complete access:
+once setup is complete, access:
 elasticsearch on http://localhost:9200
 kibana on http://localhost:5600
 
